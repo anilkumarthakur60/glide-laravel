@@ -22,5 +22,6 @@
         "psr-4": {
             "League\\Glide\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
